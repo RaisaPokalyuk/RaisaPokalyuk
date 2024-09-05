@@ -14,7 +14,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=RaisaPokalyuk&style=flat-square&color=blue" alt=""/>
 <h1>
-  HEY THERE
+  Hello world)
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
