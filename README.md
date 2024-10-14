@@ -24,7 +24,7 @@
 ---
 
 :woman_technologist:
-DATA ANALYST,Product Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Peterburg
+Аналитик по данным,DATA ANALYST,Продуктовый аналитик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Peterburg
 
 Анализирую,визуализирую,извлекаю ценные инсайты!
 
