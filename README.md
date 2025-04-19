@@ -1,116 +1,33 @@
+# 💫 About Me:
+Мой СТЕК:<br>SQL, Python, Yandex Datalens, Redash, MS Excel<br><br>Больше 5 лет опыта в обработке больших массивов информации. Также за плечами 4 года работы в Райффайзенбанке менеджером по работе с клиентами.<br>Уверенные навыки работы с SQL,Python, Datalens, MC Excel.<br><br>Активно участвую в хакатонах, так я прокачиваю профессиональные компетенции, расширяю кругозор и остаюсь в курсе современных аналитических подходов и технологий.
 
-<div id="badges">
-  <a href="your-Telegram-URL">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
 
-  
-</div>
-<img src="https://komarev.com/ghpvc/?username=RaisaPokalyuk&style=flat-square&color=blue" alt=""/>
-<h1>
-  Hello world)
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDlrNDZvbzNqN3BzMDE1Ym9pOWQwcjNnYWtkYWxwYjFjdzZzMWxyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l46Cy1rHbQ92uuLXa/giphy.gif" width="600" height="300"/>
-</div>
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raisapokalyuk@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RaisaPokalyuk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RaisaPokalyuk&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaisaPokalyuk&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-:woman_technologist:
-Аналитик по данным,DATA ANALYST,Продуктовый аналитик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint-Peterburg
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-Анализирую,визуализирую,извлекаю ценные инсайты!
-
-Привет!Меня зовут Раиса Покалюк <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-   
-   Моя цель-использовать данные для принятия обоснованных решений и оптимизации бизнес-процессов.
-
-   Умею и готова разбираться в большом объеме информации, работать в команде, исполнительна, любознательна, внимательна к деталям.
-
-Имею навыки и знания, необходимые для эффективного анализа данных с использованием таких инструментов как Python и SQL ,проводила предобработку данных(аномалии,дубли и тд), визуализировала данные в Yandex Datalens и Redash. Есть представление как проводить а/b -тестирование, когортный анализ, описательную статистику с помощью библиотек stats и scipy. Также есть навыки построения графиков на Python с помощью библиотек matplotlib, seaborn,plotly.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RaisaPokalyuk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=RaisaPokalyuk&icon=0&color=1)](https://visitcount.itsvg.in)
 
-                                                         МОЙ ОПЫТ
- Проектная деятельность
-  Аналитик данных
-СТЕК: SQL(DBeaver, PostgreSQL), Python(библиотеки Pandas, Seaborn, Matplotlib, NumPy), дашборды в Yandex Datalens, Git
-
-- :zap: Провела исследование и сбор данных о клиентах, включая демографические, финансовые и поведенческие характеристики;
-- :zap: Выполнила предобработку данных, включая очистку, нормализацию и преобразование признаков для улучшения качества анализа;
-- :zap:Применяла методы анализа данных с использованием Python и библиотек (Pandas, Seaborn, Matplotlib, NumPy) для визуализации и интерпретации результатов;
-- :zap:Подготовила отчет с выводами и рекомендациями, основанными на анализе, для улучшения маркетинговых стратегий и повышения конверсии потенциальных клиентов.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
-  Аналитик (специалист-эксперт) в ФНС
-
-- :zap:Обрабатывала большие массивы данных, используя MS Excel для анализа и визуализации информации.
-- :zap:Проводила ежемесячный мониторинг и анализ начислений и поступлений налогов и сборов, выявляя ключевые тенденции и аномалии.
-- :zap:Прогнозировала доходы и выявляла несоответствия в поступлениях, что позволяло своевременно принимать меру для их устранения.
-- :zap:Формировала отчеты о результатах налогового сбора и прогнозов, предоставляя их руководству для принятия стратегических решений.
-- :zap:Взаимодействовала с физическими и юридическими лицами для решения налоговых вопросов, обеспечивая высокий уровень обслуживания клиентов.
-
-Достижения: Увеличила точность зачислений благодаря анализу данных по налоговым поступлениям.
-Участвовала в автоматизации процессов учета, что позволило сократить время поступлений на счета по учету доходов бюджета, повысив общую эффективность работы.
 
 
-  ---
 
-                                                       СТЕК
-  - :seedling: MS Excel,MS PowerPoint                                                  
-  - :seedling: Языки программирования и библиотеки SQL(MySQL,PostgreSQL),Python(Pandas,NumPy,SciPy)
-  - :seedling: Визуализация данных-Yandex Datalens,Matplotlib,Seaborn
-  - :seedling: А/В -тестирование, когортный анализ, описательная статистика с помощью библиотек stats и scipy, доверительные интервалы и проверка гипотез, бизнес-метрики и воронки продаж.
-
-    ---
-
-                                                   ОБО МНЕ
-    
-
-
-Больше 5 лет опыта в обработке больших массивов информации.Также в бэкграунде - 4 года работы в Райффайзенбанке менеджером по работе с клиентами.
-Уверенные навыки работы с SQL,Python, Datalens, MC Excel.
-
-Активно участвую в хакатонах, так я прокачиваю профессиональные компетенции, расширяю кругозор и остаюсь в курсе современных аналитических подходов и технологий.
-
-
----
-
-                                                 СВЯЗАТЬСЯ СО МНОЙ
-                                                 
- Email: raisapokalyuk@gmail.com
- 
- Telegram: @RaisaPokalyuk
- 
- Number: +79819962772
-
- ---
-
- ### :hammer_and_wrench: Languages and Tools :
-
- <div>
-
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
- 
-</div>
-
----
-
-### :fire: My Stats :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RaisaPokalyuk&theme=highcontrast)](https://git.io/streak-stats)
-
-
-### :writing_hand: Blog Posts :
-
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 
 
